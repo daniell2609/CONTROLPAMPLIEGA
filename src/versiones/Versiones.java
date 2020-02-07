@@ -16,6 +16,8 @@ public class Versiones {
      */
     public static void main(String[] args) {
         System.out.println("Examen");
+        System.out.println("Es viernes");
+        System.out.println("Entornos");
     }
     
 }
